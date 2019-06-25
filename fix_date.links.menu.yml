@@ -1,0 +1,6 @@
+fix_date.admin:
+  title: 'Fix date custom'
+  desciption: 'Fix date module'
+  route_name: fix_date.form
+  parent: system.admin_config_development
+  weight: 100
